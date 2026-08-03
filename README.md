@@ -44,7 +44,7 @@ The app is designed as a mobile-first experience (390 × 844 px, iPhone 14 propo
 
 ```bash
 # clone
-git clone https://github.com/YOUR_USERNAME/mindful-moment.git
+git clone https://github.com/shahddismail/mindful-moment.git
 cd mindful-moment
 
 # install
