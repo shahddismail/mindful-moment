@@ -54,7 +54,7 @@ pnpm install        # or: npm install
 pnpm dev            # or: npm run dev
 ```
 
-Open `http://localhost:8443` in your browser.
+Open `http://localhost:5173` in your browser.
 
 ### Build for production
 
